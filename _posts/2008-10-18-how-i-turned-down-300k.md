@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
+title: Matadero 5, Kurt Vonnegut
 ---
 
 {{ page.title }}
